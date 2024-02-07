@@ -1,4 +1,13 @@
-# 0.1.0 (2024-02-07)
+# [0.2.0](https://github.com/babyhockey/greetings-ci/compare/v0.1.0...v0.2.0) (2024-02-07)
+
+
+### Features
+
+* upload artifacts ([822b5ac](https://github.com/babyhockey/greetings-ci/commit/822b5ac636110485c8e31d418bbf292548aaec38))
+
+
+
+# [0.1.0](https://github.com/babyhockey/greetings-ci/compare/a4d9f04509662db2e80458de6f6b76c2ae0abd55...v0.1.0) (2024-02-07)
 
 
 ### Bug Fixes

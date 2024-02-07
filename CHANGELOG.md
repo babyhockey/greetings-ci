@@ -1,3 +1,12 @@
+# [0.4.0](https://github.com/babyhockey/greetings-ci/compare/v0.3.0...v0.4.0) (2024-02-07)
+
+
+### Features
+
+* add testing to pipeline ([7cef89a](https://github.com/babyhockey/greetings-ci/commit/7cef89ac2e69b95b462ad854875c0d8398463868))
+
+
+
 # [0.3.0](https://github.com/babyhockey/greetings-ci/compare/v0.2.0...v0.3.0) (2024-02-07)
 
 

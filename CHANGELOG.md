@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/babyhockey/greetings-ci/compare/v0.2.0...v0.3.0) (2024-02-07)
+
+
+### Features
+
+* add version number ([64220ef](https://github.com/babyhockey/greetings-ci/commit/64220eff09a979a3cbca0c23070b3084b6bb100d))
+
+
+
 # [0.2.0](https://github.com/babyhockey/greetings-ci/compare/v0.1.0...v0.2.0) (2024-02-07)
 
 
